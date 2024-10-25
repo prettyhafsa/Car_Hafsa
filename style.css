@@ -10,9 +10,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-i{
-  font-size: 200px;
-}
+
 .caree-1, .caree-2, .caree-3, .caree-4, .caree-5, .caree-6, .caree-7, .caree-8, .caree-9, .caree-10 {
     height: 35%;
     width: 20%;
